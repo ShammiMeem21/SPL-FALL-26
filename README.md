@@ -5,12 +5,12 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:Shammi Akter Meem**
-- **Student ID:0112620556**
-- **Section:F**
+- **Name:**
+- **Student ID:**
+- **Section:**
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
-- **Trimester:FALL 2026**
+- **Trimester:**
 - **Instructor:**
 
 ## About This Repository
